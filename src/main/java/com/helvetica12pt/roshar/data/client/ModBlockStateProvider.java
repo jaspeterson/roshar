@@ -45,6 +45,10 @@ public class ModBlockStateProvider extends BlockStateProvider {
         makeBlockItemFromExistingModel(ModBlocks.HELIODOR_BLOCK.get());
         simpleBlock(ModBlocks.HELIODOR_ORE.get());
         makeBlockItemFromExistingModel(ModBlocks.HELIODOR_ORE.get());
+        simpleBlock(ModBlocks.TOPAZ_BLOCK.get());
+        makeBlockItemFromExistingModel(ModBlocks.TOPAZ_BLOCK.get());
+        simpleBlock(ModBlocks.TOPAZ_ORE.get());
+        makeBlockItemFromExistingModel(ModBlocks.TOPAZ_ORE.get());
     }
 
 }

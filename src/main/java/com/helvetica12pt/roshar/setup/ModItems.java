@@ -15,6 +15,8 @@ public class ModItems {
             new Item(new Item.Properties().tab(ItemGroup.TAB_MATERIALS)));
     public static final RegistryObject<Item> HELIODOR = Registration.ITEMS.register("heliodor", () ->
             new Item(new Item.Properties().tab(ItemGroup.TAB_MATERIALS)));
+    public static final RegistryObject<Item> TOPAZ = Registration.ITEMS.register("topaz", () ->
+            new Item(new Item.Properties().tab(ItemGroup.TAB_MATERIALS)));
 
     static void register() {}
 }

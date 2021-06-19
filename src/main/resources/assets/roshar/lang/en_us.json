@@ -17,5 +17,9 @@
 
   "item.roshar.heliodor": "Heliodor",
   "block.roshar.heliodor_block": "Heliodor Block",
-  "block.roshar.heliodor_ore": "Heliodor Ore"
+  "block.roshar.heliodor_ore": "Heliodor Ore",
+
+  "item.roshar.topaz": "Topaz",
+  "block.roshar.topaz_block": "Topaz Block",
+  "block.roshar.topaz_ore": "Topaz Ore"
 }

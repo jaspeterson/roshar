@@ -29,5 +29,6 @@ public class ModItemModelProvider extends ItemModelProvider {
         builder(mf, "smokestone");
         builder(mf, "amethyst");
         builder(mf, "heliodor");
+        builder(mf, "topaz");
     }
 }

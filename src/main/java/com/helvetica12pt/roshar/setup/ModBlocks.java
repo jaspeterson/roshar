@@ -34,6 +34,10 @@ public class ModBlocks {
             new Block(AbstractBlock.Properties.of(Material.STONE).strength(3, 10).sound(SoundType.STONE)));
     public static final RegistryObject<Block> HELIODOR_ORE = register("heliodor_ore", () ->
             new Block(AbstractBlock.Properties.of(Material.STONE).strength(3, 10).sound(SoundType.STONE)));
+    public static final RegistryObject<Block> TOPAZ_BLOCK = register("topaz_block", () ->
+            new Block(AbstractBlock.Properties.of(Material.STONE).strength(3, 10).sound(SoundType.STONE)));
+    public static final RegistryObject<Block> TOPAZ_ORE = register("topaz_ore", () ->
+            new Block(AbstractBlock.Properties.of(Material.STONE).strength(3, 10).sound(SoundType.STONE)));
 
     static void register() {}
 
