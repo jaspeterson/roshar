@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "roshar:smokestone_block"
+    }
+  ],
+  "result": {
+    "item": "roshar:smokestone",
+    "count": 9
+  }
+}

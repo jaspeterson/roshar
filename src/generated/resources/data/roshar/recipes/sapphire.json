@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "roshar:sapphire_block"
+    }
+  ],
+  "result": {
+    "item": "roshar:sapphire",
+    "count": 9
+  }
+}

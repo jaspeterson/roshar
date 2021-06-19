@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "roshar:sapphire"
+    }
+  },
+  "result": {
+    "item": "roshar:sapphire_block"
+  }
+}
