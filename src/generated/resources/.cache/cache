@@ -40,3 +40,13 @@ c563b6965dbbb823235715fc263e9f65d1b7f030 assets/roshar/models/item/smokestone_bl
 360ce522bd00f1bd0856b213517ab44f64c07583 assets/roshar/models/item/topaz.json
 e7f23bc0e4caff9a80837f1b8688ddb1c78bbcfb assets/roshar/models/item/topaz_block.json
 4510807d6d0cc6c7ac7cfab72a4ffdd0277b4ac6 assets/roshar/models/item/topaz_ore.json
+d0aec6bac0a162a3340e093a6bdf2e5f6e33e5cd data/forge/tags/blocks/ores.json
+cb1b122a2e270095378459d6a697cdc0477a91eb data/forge/tags/blocks/ores/sapphire.json
+b2091825d18520a07965c8c7b7ce9713c7886973 data/forge/tags/blocks/storage_blocks.json
+cfbb371efc416cfec981b32dacab9ef9760c6bd0 data/forge/tags/blocks/storage_blocks/sapphire.json
+2c8823fa4745ddd328d54cee32a38a44095569ee data/forge/tags/items/gems.json
+42390d60fb801826e887070e2a1052c0af609ecf data/forge/tags/items/gems/sapphire.json
+d0aec6bac0a162a3340e093a6bdf2e5f6e33e5cd data/forge/tags/items/ores.json
+cb1b122a2e270095378459d6a697cdc0477a91eb data/forge/tags/items/ores/sapphire.json
+b2091825d18520a07965c8c7b7ce9713c7886973 data/forge/tags/items/storage_blocks.json
+cfbb371efc416cfec981b32dacab9ef9760c6bd0 data/forge/tags/items/storage_blocks/sapphire.json

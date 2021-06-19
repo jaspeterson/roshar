@@ -21,5 +21,9 @@ public class DataGenerators {
         //add providers
         gen.addProvider(new ModItemModelProvider(gen, eFH));
         gen.addProvider(new ModBlockStateProvider(gen, eFH));
+
+        ModBlockTagsProvider blockTags = new ModBlockTagsProvider(gen, eFH);
+        gen.addProvider(blockTags);
+        gen.addProvider(new ModItemTagsProvider(gen, blockTags, eFH));
     }
 }
