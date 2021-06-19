@@ -33,6 +33,18 @@ public class ModBlockStateProvider extends BlockStateProvider {
         makeBlockItemFromExistingModel(ModBlocks.RUBY_BLOCK.get());
         simpleBlock(ModBlocks.RUBY_ORE.get());
         makeBlockItemFromExistingModel(ModBlocks.RUBY_ORE.get());
+        simpleBlock(ModBlocks.SMOKESTONE_BLOCK.get());
+        makeBlockItemFromExistingModel(ModBlocks.SMOKESTONE_BLOCK.get());
+        simpleBlock(ModBlocks.SMOKESTONE_ORE.get());
+        makeBlockItemFromExistingModel(ModBlocks.SMOKESTONE_ORE.get());
+        simpleBlock(ModBlocks.AMETHYST_BLOCK.get());
+        makeBlockItemFromExistingModel(ModBlocks.AMETHYST_BLOCK.get());
+        simpleBlock(ModBlocks.AMETHYST_ORE.get());
+        makeBlockItemFromExistingModel(ModBlocks.AMETHYST_ORE.get());
+        simpleBlock(ModBlocks.HELIODOR_BLOCK.get());
+        makeBlockItemFromExistingModel(ModBlocks.HELIODOR_BLOCK.get());
+        simpleBlock(ModBlocks.HELIODOR_ORE.get());
+        makeBlockItemFromExistingModel(ModBlocks.HELIODOR_ORE.get());
     }
 
 }

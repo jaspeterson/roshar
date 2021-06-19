@@ -26,5 +26,8 @@ public class ModItemModelProvider extends ItemModelProvider {
     private void buildGemstones(ModelFile mf) {
         builder(mf, "sapphire");
         builder(mf, "ruby");
+        builder(mf, "smokestone");
+        builder(mf, "amethyst");
+        builder(mf, "heliodor");
     }
 }

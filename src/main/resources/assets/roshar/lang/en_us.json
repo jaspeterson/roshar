@@ -1,5 +1,21 @@
 {
   "item.roshar.sapphire": "Sapphire",
   "block.roshar.sapphire_block": "Sapphire Block",
-  "block.roshar.sapphire_ore": "Sapphire Ore"
+  "block.roshar.sapphire_ore": "Sapphire Ore",
+
+  "item.roshar.ruby": "Ruby",
+  "block.roshar.ruby_block": "Ruby Block",
+  "block.roshar.ruby_ore": "Ruby Ore",
+
+  "item.roshar.smokestone": "Smokestone",
+  "block.roshar.smokestone_block": "Smokestone Block",
+  "block.roshar.smokestone_ore": "Smokestone Ore",
+
+  "item.roshar.amethyst": "Amethyst",
+  "block.roshar.amethyst_block": "Amethyst Block",
+  "block.roshar.amethyst_ore": "Amethyst Ore",
+
+  "item.roshar.heliodor": "Heliodor",
+  "block.roshar.heliodor_block": "Heliodor Block",
+  "block.roshar.heliodor_ore": "Heliodor Ore"
 }

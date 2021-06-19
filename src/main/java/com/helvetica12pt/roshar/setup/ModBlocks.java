@@ -22,6 +22,18 @@ public class ModBlocks {
             new Block(AbstractBlock.Properties.of(Material.STONE).strength(3, 10).sound(SoundType.STONE)));
     public static final RegistryObject<Block> RUBY_ORE = register("ruby_ore", () ->
             new Block(AbstractBlock.Properties.of(Material.STONE).strength(3, 10).sound(SoundType.STONE)));
+    public static final RegistryObject<Block> SMOKESTONE_BLOCK = register("smokestone_block", () ->
+            new Block(AbstractBlock.Properties.of(Material.STONE).strength(3, 10).sound(SoundType.STONE)));
+    public static final RegistryObject<Block> SMOKESTONE_ORE = register("smokestone_ore", () ->
+            new Block(AbstractBlock.Properties.of(Material.STONE).strength(3, 10).sound(SoundType.STONE)));
+    public static final RegistryObject<Block> AMETHYST_BLOCK = register("amethyst_block", () ->
+            new Block(AbstractBlock.Properties.of(Material.STONE).strength(3, 10).sound(SoundType.STONE)));
+    public static final RegistryObject<Block> AMETHYST_ORE = register("amethyst_ore", () ->
+            new Block(AbstractBlock.Properties.of(Material.STONE).strength(3, 10).sound(SoundType.STONE)));
+    public static final RegistryObject<Block> HELIODOR_BLOCK = register("heliodor_block", () ->
+            new Block(AbstractBlock.Properties.of(Material.STONE).strength(3, 10).sound(SoundType.STONE)));
+    public static final RegistryObject<Block> HELIODOR_ORE = register("heliodor_ore", () ->
+            new Block(AbstractBlock.Properties.of(Material.STONE).strength(3, 10).sound(SoundType.STONE)));
 
     static void register() {}
 
