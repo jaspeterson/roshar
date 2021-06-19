@@ -1,6 +1,11 @@
 {
   "replace": false,
   "values": [
-    "#forge:ores/sapphire"
+    "#forge:ores/amethyst",
+    "#forge:ores/heliodor",
+    "#forge:ores/ruby",
+    "#forge:ores/sapphire",
+    "#forge:ores/smokestone",
+    "#forge:ores/topaz"
   ]
 }
